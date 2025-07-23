@@ -30,24 +30,7 @@ Styling: Tailwind CSS
 
 Icons/Images: Custom assets
 
----
 
-🗂️ Folder Structure
-
-todo-app/
-│
-├── src/
-│   ├── assets/             # Icons and images
-│   ├── components/
-│   │   ├── Todo.js         # Main component for UI and logic
-│   │   └── TodoItems.js    # Individual to-do item
-│   ├── App.js              # Root component
-│   ├── index.js            # Entry point
-│   └── index.css           # Tailwind CSS
-│
-├── tailwind.config.js      # Tailwind configuration
-├── package.json            # Project metadata and dependencies
-└── README.md               # You're reading it!
 
 ---
 
