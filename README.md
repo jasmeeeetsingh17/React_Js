@@ -22,5 +22,5 @@ A simple and responsive **To-Do List application** built using **React JS** and 
 
 ---
 
-## 📁 Project Structure
+
 
