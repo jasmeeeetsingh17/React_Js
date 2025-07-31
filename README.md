@@ -31,7 +31,6 @@ Styling: Tailwind CSS
 Icons/Images: Custom assets
 
 
-
 ---
 
 ### 🛠 Installation
