@@ -14,7 +14,7 @@ A simple and interactive To-Do List web application built using **React JS** and
 
 ---
 
-## 🚀 Getting Started
+
 
 ### 📦 Prerequisites
 
