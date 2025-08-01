@@ -13,8 +13,7 @@ A simple and interactive To-Do List web application built using **React JS** and
 - 🎨 Clean and responsive UI with Tailwind CSS
 
 ---
-
-
+## 🚀 Getting Started
 
 ### 📦 Prerequisites
 
